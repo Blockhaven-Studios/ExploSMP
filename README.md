@@ -1,0 +1,2 @@
+# ExploSMP
+The info/licences
